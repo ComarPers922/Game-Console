@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="RXTXcomm">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/RXTXcomm.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/nrjavaserial-3.13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/nrjavaserial-3.13.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/nrjavaserial-3.13.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

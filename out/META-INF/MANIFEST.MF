@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: lib/javax.servlet-3.0.0.v201112011016.jar lib/jetty-all-9.
+ 1.5.v20140505.jar lib/json-simple-1.1.1.jar
+Main-Class: my.window.GameMainWindow
+
